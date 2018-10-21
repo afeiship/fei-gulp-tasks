@@ -1,8 +1,8 @@
 {
-  "name": "fei-gulp-tasks",
-  "version": "0.0.0",
+  "name": "gulp-tasks",
+  "version": "1.0.0",
   "description": "My common gulp tasks list.",
-  "homepage": "https://github.com/afeiship/fei-gulp-tasks",
+  "homepage": "https://github.com/afeiship/gulp-tasks",
   "author": {
     "name": "afei",
     "email": "1290657123@qq.com"
