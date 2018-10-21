@@ -1,2 +1,2 @@
-# fei-gulp-tasks
+# gulp-tasks
 > My common gulp tasks list.
